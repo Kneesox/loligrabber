@@ -9,5 +9,5 @@ request(url, function (error, response, body) {
 		}
 	})
 }
-setInterval(lolis, 1000);
+setInterval(lolis, 200);
 console.log("Made by Kneesox#0461")
